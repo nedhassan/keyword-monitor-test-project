@@ -1,0 +1,4 @@
+::1 - - [29/Jul/2024:20:30:23 +0000] "GET /api/app-logs HTTP/1.1" 200 0 "-" "PostmanRuntime/7.40.0"
+::1 - - [29/Jul/2024:20:30:40 +0000] "GET /api/app-logs HTTP/1.1" 200 100 "-" "PostmanRuntime/7.40.0"
+::1 - - [29/Jul/2024:20:30:42 +0000] "GET /api/app-logs HTTP/1.1" 200 202 "-" "PostmanRuntime/7.40.0"
+::1 - - [29/Jul/2024:20:30:45 +0000] "GET /api/app-logs HTTP/1.1" 401 27 "-" "PostmanRuntime/7.40.0"
